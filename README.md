@@ -1,3 +1,3 @@
 # AppStudentDatabase
 
-### It is a small project made using main OOPs concepts -> Inheritance, Abstraction, Method Overloading, Method Overriding etc.
+### It is a small project made using main OOPs concepts -> Inheritance, Abstraction, Method Overloading, Method Overriding etc also used Exception Handling.
